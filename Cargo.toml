@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "get folder size rustify"
 license-file = "./LICENSE"
+repository = "https://github.com/Asarua/rs-get-folder-size"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
